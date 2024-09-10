@@ -1,0 +1,23 @@
+.logo-article {
+    background-color: red;
+    display: block;
+    height: 95vh;
+    box-sizing: border-box;
+    padding-top: 27.5vh;
+}
+
+.logo-article.green {
+    background-color: green;
+
+}
+
+.logo-picture {
+    /* background-color: white; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 40vh;
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
